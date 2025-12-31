@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/tractionDisplacementFvPatchVectorField.o\
+$(OBJECTS_DIR)/fsiIbmFoam.o

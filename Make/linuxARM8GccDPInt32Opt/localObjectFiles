@@ -1,0 +1,3 @@
+LOCAL_OBJECTS = \
+tractionDisplacementFvPatchVectorField.o\
+fsiIbmFoam.o
